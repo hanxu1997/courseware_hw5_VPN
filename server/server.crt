@@ -3,24 +3,24 @@ Certificate:
         Version: 3 (0x2)
         Serial Number: 1 (0x1)
     Signature Algorithm: md5WithRSAEncryption
-        Issuer: C=CN, ST=GD, L=GZ, O=CP, OU=admin, CN=OpenVPN_CA/name=CP/emailAddress=807174205@qq.com
+        Issuer: C=CN, ST=GD, L=GuangZhou, O=sysu, OU=admin, CN=CA/name=hanxuVPN/emailAddress=807174205@qq.com
         Validity
-            Not Before: Nov 25 13:04:54 2017 GMT
-            Not After : Nov 23 13:04:54 2027 GMT
-        Subject: C=CN, ST=GD, L=GZ, O=CP, OU=admin, CN=server/name=CP/emailAddress=807174205@qq.com
+            Not Before: Nov 25 13:43:53 2017 GMT
+            Not After : Nov 23 13:43:53 2027 GMT
+        Subject: C=CN, ST=GD, L=GuangZhou, O=sysu, OU=admin, CN=server/name=hanxuVPN/emailAddress=807174205@qq.com
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
                 Public-Key: (1024 bit)
                 Modulus:
-                    00:c5:72:fd:a9:a4:56:f9:dd:53:42:ab:bc:16:35:
-                    bf:d8:83:a7:4b:c2:8c:a1:05:44:a9:05:07:b0:fd:
-                    a2:5e:7d:bc:a7:4f:52:be:85:85:f0:54:1a:fd:e4:
-                    ae:e5:8f:c6:b2:c6:cd:0b:40:5e:cf:86:91:05:48:
-                    cf:68:31:aa:2d:7f:f1:56:6f:14:82:60:27:80:bb:
-                    6e:ae:86:3e:9e:78:a7:23:19:86:a7:ee:e9:19:27:
-                    db:bd:f9:0a:7b:85:fd:cb:e4:06:e2:74:25:a3:3d:
-                    23:42:8c:2b:bf:76:17:db:b9:45:83:7f:94:e4:63:
-                    fb:9f:cb:88:96:e5:56:53:39
+                    00:a2:bd:c0:79:a2:71:14:0d:63:2e:23:c8:34:83:
+                    1c:d5:31:4f:90:21:16:52:e9:19:2e:72:29:23:39:
+                    4a:3e:9d:64:7c:75:15:7c:8e:27:1e:82:63:f1:11:
+                    2f:11:d3:ce:f8:56:fe:49:08:f3:d8:f5:eb:6f:ce:
+                    aa:24:9d:cb:96:6b:20:8a:db:e1:ef:fc:ae:c3:62:
+                    ad:8a:31:da:49:2d:7b:d5:6f:7f:8e:26:29:65:4e:
+                    00:8d:2f:51:ab:d4:ce:1f:e6:61:7f:71:96:31:68:
+                    4c:8f:64:57:96:39:d5:ea:c2:91:73:4d:4d:9f:fd:
+                    24:b1:b7:67:a3:32:2f:3e:05
                 Exponent: 65537 (0x10001)
         X509v3 extensions:
             X509v3 Basic Constraints: 
@@ -30,45 +30,46 @@ Certificate:
             Netscape Comment: 
                 Easy-RSA Generated Server Certificate
             X509v3 Subject Key Identifier: 
-                E4:09:6E:0B:5C:93:C2:66:6C:DA:0C:4D:89:D6:05:9D:EC:00:EA:B5
+                AF:8D:49:FC:EE:BF:12:F2:1A:CF:D8:A9:1C:96:DD:DB:3B:6F:49:6F
             X509v3 Authority Key Identifier: 
-                keyid:65:52:31:51:52:40:53:77:12:12:02:9F:D1:FC:32:AF:54:C1:6E:A6
-                DirName:/C=CN/ST=GD/L=GZ/O=CP/OU=admin/CN=OpenVPN_CA/name=CP/emailAddress=807174205@qq.com
-                serial:9C:BE:97:0D:86:46:64:4C
+                keyid:8A:07:F4:5C:65:08:F0:08:83:6B:8A:4D:2F:63:47:52:B1:31:94:63
+                DirName:/C=CN/ST=GD/L=GuangZhou/O=sysu/OU=admin/CN=CA/name=hanxuVPN/emailAddress=807174205@qq.com
+                serial:C7:6C:71:60:06:1F:12:0C
 
             X509v3 Extended Key Usage: 
                 TLS Web Server Authentication
             X509v3 Key Usage: 
                 Digital Signature, Key Encipherment
     Signature Algorithm: md5WithRSAEncryption
-         4a:df:f6:9c:bf:79:be:8a:b3:b7:09:8b:88:02:7a:8c:50:70:
-         4b:cf:e3:cd:10:1d:4b:07:76:8b:9c:ae:40:0d:e0:12:e1:2e:
-         0e:7d:a6:8a:33:18:9e:dc:72:d2:0c:f3:ba:64:56:fc:7e:93:
-         c7:24:94:a8:81:1d:1a:dd:cb:36:99:d9:59:86:91:9b:9d:c7:
-         33:04:a1:e4:79:df:7a:ca:60:de:bc:76:9e:5b:f0:31:9e:ea:
-         6f:4b:32:5a:0b:3f:9e:23:5c:f5:e4:0b:db:b9:07:fa:dc:eb:
-         36:ee:b1:9f:32:51:21:dd:72:1a:e9:ae:78:d1:3c:d8:67:28:
-         01:51
+         77:41:6d:fe:cc:f0:3a:fa:7d:1e:95:70:c1:e4:09:39:d4:fb:
+         65:5d:07:94:b8:9a:96:64:4a:bb:22:48:aa:f4:3a:2d:1c:41:
+         03:52:04:6b:2b:4f:bb:c6:3c:93:30:eb:ac:06:99:ca:96:93:
+         50:70:0c:13:b7:8b:1e:32:27:7d:c6:37:6d:14:1f:88:4d:02:
+         a9:98:97:16:c4:f0:52:28:c0:ba:f9:58:ed:c4:9d:c2:35:63:
+         e4:6f:ba:dd:d5:85:12:49:42:1a:8c:dd:6c:48:c7:2a:4c:c9:
+         9d:26:9a:8d:9e:b4:0f:46:ea:a2:b6:62:82:6c:93:53:eb:a3:
+         07:2f
 -----BEGIN CERTIFICATE-----
-MIID3DCCA0WgAwIBAgIBATANBgkqhkiG9w0BAQQFADCBhzELMAkGA1UEBhMCQ04x
-CzAJBgNVBAgTAkdEMQswCQYDVQQHEwJHWjELMAkGA1UEChMCQ1AxDjAMBgNVBAsT
-BWFkbWluMRMwEQYDVQQDFApPcGVuVlBOX0NBMQswCQYDVQQpEwJDUDEfMB0GCSqG
-SIb3DQEJARYQODA3MTc0MjA1QHFxLmNvbTAeFw0xNzExMjUxMzA0NTRaFw0yNzEx
-MjMxMzA0NTRaMIGDMQswCQYDVQQGEwJDTjELMAkGA1UECBMCR0QxCzAJBgNVBAcT
-AkdaMQswCQYDVQQKEwJDUDEOMAwGA1UECxMFYWRtaW4xDzANBgNVBAMTBnNlcnZl
-cjELMAkGA1UEKRMCQ1AxHzAdBgkqhkiG9w0BCQEWEDgwNzE3NDIwNUBxcS5jb20w
-gZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMVy/amkVvndU0KrvBY1v9iDp0vC
-jKEFRKkFB7D9ol59vKdPUr6FhfBUGv3kruWPxrLGzQtAXs+GkQVIz2gxqi1/8VZv
-FIJgJ4C7bq6GPp54pyMZhqfu6Rkn2735CnuF/cvkBuJ0JaM9I0KMK792F9u5RYN/
-lORj+5/LiJblVlM5AgMBAAGjggFYMIIBVDAJBgNVHRMEAjAAMBEGCWCGSAGG+EIB
-AQQEAwIGQDA0BglghkgBhvhCAQ0EJxYlRWFzeS1SU0EgR2VuZXJhdGVkIFNlcnZl
-ciBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQU5AluC1yTwmZs2gxNidYFnewA6rUwgbwG
-A1UdIwSBtDCBsYAUZVIxUVJAU3cSEgKf0fwyr1TBbqahgY2kgYowgYcxCzAJBgNV
-BAYTAkNOMQswCQYDVQQIEwJHRDELMAkGA1UEBxMCR1oxCzAJBgNVBAoTAkNQMQ4w
-DAYDVQQLEwVhZG1pbjETMBEGA1UEAxQKT3BlblZQTl9DQTELMAkGA1UEKRMCQ1Ax
-HzAdBgkqhkiG9w0BCQEWEDgwNzE3NDIwNUBxcS5jb22CCQCcvpcNhkZkTDATBgNV
-HSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMCBaAwDQYJKoZIhvcNAQEEBQADgYEA
-St/2nL95voqztwmLiAJ6jFBwS8/jzRAdSwd2i5yuQA3gEuEuDn2mijMYntxy0gzz
-umRW/H6TxySUqIEdGt3LNpnZWYaRm53HMwSh5Hnfespg3rx2nlvwMZ7qb0syWgs/
-niNc9eQL27kH+tzrNu6xnzJRId1yGumueNE82GcoAVE=
+MIID+TCCA2KgAwIBAgIBATANBgkqhkiG9w0BAQQFADCBjjELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAkdEMRIwEAYDVQQHEwlHdWFuZ1pob3UxDTALBgNVBAoTBHN5c3Ux
+DjAMBgNVBAsTBWFkbWluMQswCQYDVQQDEwJDQTERMA8GA1UEKRMIaGFueHVWUE4x
+HzAdBgkqhkiG9w0BCQEWEDgwNzE3NDIwNUBxcS5jb20wHhcNMTcxMTI1MTM0MzUz
+WhcNMjcxMTIzMTM0MzUzWjCBkjELMAkGA1UEBhMCQ04xCzAJBgNVBAgTAkdEMRIw
+EAYDVQQHEwlHdWFuZ1pob3UxDTALBgNVBAoTBHN5c3UxDjAMBgNVBAsTBWFkbWlu
+MQ8wDQYDVQQDEwZzZXJ2ZXIxETAPBgNVBCkTCGhhbnh1VlBOMR8wHQYJKoZIhvcN
+AQkBFhA4MDcxNzQyMDVAcXEuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKB
+gQCivcB5onEUDWMuI8g0gxzVMU+QIRZS6RkucikjOUo+nWR8dRV8jicegmPxES8R
+0874Vv5JCPPY9etvzqokncuWayCK2+Hv/K7DYq2KMdpJLXvVb3+OJillTgCNL1Gr
+1M4f5mF/cZYxaEyPZFeWOdXqwpFzTU2f/SSxt2ejMi8+BQIDAQABo4IBXzCCAVsw
+CQYDVR0TBAIwADARBglghkgBhvhCAQEEBAMCBkAwNAYJYIZIAYb4QgENBCcWJUVh
+c3ktUlNBIEdlbmVyYXRlZCBTZXJ2ZXIgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFK+N
+SfzuvxLyGs/YqRyW3ds7b0lvMIHDBgNVHSMEgbswgbiAFIoH9FxlCPAIg2uKTS9j
+R1KxMZRjoYGUpIGRMIGOMQswCQYDVQQGEwJDTjELMAkGA1UECBMCR0QxEjAQBgNV
+BAcTCUd1YW5nWmhvdTENMAsGA1UEChMEc3lzdTEOMAwGA1UECxMFYWRtaW4xCzAJ
+BgNVBAMTAkNBMREwDwYDVQQpEwhoYW54dVZQTjEfMB0GCSqGSIb3DQEJARYQODA3
+MTc0MjA1QHFxLmNvbYIJAMdscWAGHxIMMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsG
+A1UdDwQEAwIFoDANBgkqhkiG9w0BAQQFAAOBgQB3QW3+zPA6+n0elXDB5Ak51Ptl
+XQeUuJqWZEq7Ikiq9DotHEEDUgRrK0+7xjyTMOusBpnKlpNQcAwTt4seMid9xjdt
+FB+ITQKpmJcWxPBSKMC6+VjtxJ3CNWPkb7rd1YUSSUIajN1sSMcqTMmdJpqNnrQP
+RuqitmKCbJNT66MHLw==
 -----END CERTIFICATE-----
